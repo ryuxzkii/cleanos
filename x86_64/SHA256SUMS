@@ -4,7 +4,7 @@ d6608d5045726884c45dc8df6062c48f248de06286038a1a2a45887fa0c1e2b5  ./cleanos-core
 26f9a6024d0592c0d9df38dc6b42a9b8f7c3803b865a47cc5cfd4eb2096305f7  ./cleanos-core-0.5.0-7-any.pkg.tar.zst
 80842f33bc423708c204ae031cfbc3dd5b42f863e8ef7e70bf25d1570e0ba2cc  ./cleanos-desktop-0.5.0-1-any.pkg.tar.zst
 5c7453a276017065825a672eac0e25556bd1b1daf334966d520e08d748845b5b  ./cleanos-desktop-0.5.0-2-any.pkg.tar.zst
-ea28734d4171546ec84c33dc267b6f4a603fafdaf15b915c3cf632bebe99f15a  ./cleanos-desktop-0.5.0-3-any.pkg.tar.zst
+f47a947a363ec64276c04ced3597f3f5a41ea6e64bf49e4645d8cc414753835a  ./cleanos-desktop-0.5.0-4-any.pkg.tar.zst
 b65c4c07868818657278fac93791e2d5d93404cf320f10c58182533e74124d7b  ./cleanos-keyring-0.5.0-1-any.pkg.tar.zst
 98b51b3818de6850f2d46dfecae6ef0910943d0f0589b3d5fb99835d64ae70ab  ./cleanos-meta-0.5.0-1-any.pkg.tar.zst
 c142d14664e3a1dad01a1b405c4eb9164ed02b74c11a146bc8482995a1ec0493  ./cleanos-release-0.5.1-2-any.pkg.tar.zst
@@ -15,12 +15,12 @@ b18ac6f9ad669b65cc7de0febb1df50b6d456d978806a10ff22f5976bfb3c0fb  ./cleanos-core
 c118838f0ce7280c727b0f76e0bbc8b9d288c77b581526d2c8101e59613ccb30  ./cleanos-core-0.5.0-7-any.pkg.tar.zst.sig
 c1bd921e70a079b4c17bbf4d8b4c1332bf5489155ccf18761eb4dfd75ba4aec8  ./cleanos-desktop-0.5.0-1-any.pkg.tar.zst.sig
 87af884cdf8244ecb94566bbbc76526a33ca3e38a3d7452fd9fef0f6b79e8de5  ./cleanos-desktop-0.5.0-2-any.pkg.tar.zst.sig
-1cff2e49b97ad3168fc34f963b81f3aa17052e8528858c05ea404d9bb9340801  ./cleanos-desktop-0.5.0-3-any.pkg.tar.zst.sig
+0cad6d2c1ced87c9c857324fc2530eda6903a50e18ec5ffe9c004837d7e591e9  ./cleanos-desktop-0.5.0-4-any.pkg.tar.zst.sig
 3392332ef1acbb3d6a0987693f086407422a6f51744730818d47ec78d2fc131f  ./cleanos-keyring-0.5.0-1-any.pkg.tar.zst.sig
 9bfc44b46779fec3cf8c59258753586d23d92ca3815335fa6e49b1ba0eb9a02a  ./cleanos-meta-0.5.0-1-any.pkg.tar.zst.sig
 689c038106063ac3de6b433f5971536c0f0c2f00475249b6dd6f654ae59a2d56  ./cleanos-release-0.5.1-2-any.pkg.tar.zst.sig
 dd6188422431a9c332de1f07b1fcdbe7874e6b7877d7a3460941ed0ea06a52b9  ./cleanos-release-0.5.1-3-any.pkg.tar.zst.sig
-4973ffe76249af602800723623807f1d8254804c202feee4aa0eebee4f5388ab  cleanos.db.tar.zst
-e30b4db67db089457642c60b42587cf6510d0d6fca109c923aaa4b875be80696  cleanos.db.tar.zst.sig
-dd1adad0c550afee6e07e36850e99de4d9c3617274da85dee4eea8ce021e1e73  cleanos.files.tar.zst
-94a55134a7cf6350da9bea107dd094f885acb967c906c87ca57aa9ea728f3ef6  cleanos.files.tar.zst.sig
+9876f044ba8c0871bc43d875b70c3110106b28ccb42ad918b829f072f86ec563  cleanos.db.tar.zst
+d9a7b5fd79e39716057f4d53068b2f8417fb008bf5b7788391f42e318305c729  cleanos.db.tar.zst.sig
+aadcbe7251882491f3b4b7290f818af71748b1f195a92025a6fed6d61e866775  cleanos.files.tar.zst
+9e8f759e01d40043e5ab1554de9871325a92750f533a4b86a14268f406490d85  cleanos.files.tar.zst.sig
